@@ -1,0 +1,46 @@
+body {
+	font-family: 'open sans';
+}
+
+h1 {
+	font-style: extrabold;
+	font-size:24px;
+}
+p.title {
+	font-style: semibold;
+	font-size:24px;
+}
+button.first {
+	font-style: extrabold;
+	font-size:14px;
+	border-radius: 5px;
+}
+h2.benefits {
+	font-style: semibold;
+	font-size: 20px;
+}
+ul {
+	font-style: light;
+	font-size: 13px;
+}
+p.quote {
+	font-style: lightitalic;
+	font-size: 18px;
+}
+p.quote {
+	font-style: semibold;
+	font-size: 18px;
+}
+button.last {
+	font-style: extrabold;
+	font-size: 12px;
+	border-radius: 5px;
+}
+p.end {
+	font-style: extrabold;
+	font-size: 24px;
+}
+p.end2 {
+	font-style: semibold;
+	font-size: 9px;
+}
