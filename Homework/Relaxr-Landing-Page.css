@@ -1,3 +1,7 @@
+/*Button*/
+
+/*Globals*/
+
 body {
 	font-family: 'Open Sans', sans-serif;
 	background-color: #f0efef;
@@ -6,19 +10,17 @@ body {
 header.first {
 	background-image: url("images/header_bg.jpg");
 	color: rgba(255, 255, 255, 1);
-	height: 550px;
-	width: 1200px;
+	background-size:cover;
+	height: 450px;
 }
 
 h1 {
-	font-family: 'Open Sans', sans-serif;
 	font-weight: 800;
 	font-size:24px;
 	padding: 40px;
 }
 
 p.first {
-	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	font-size:24px;
 	text-align: center;
@@ -26,7 +28,6 @@ p.first {
 }
 
 button.first {
-	font-family: 'Open Sans', sans-serif;
 	font-weight: 800;
 	font-size:14px;
 	border-radius: 5px;
@@ -42,7 +43,6 @@ button.first {
 }
 
 h2 {
-	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	font-size: 20px;
 	text-align: center;
@@ -55,7 +55,6 @@ p.benefits {
 }
 
 div.benefits {
-	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	font-size: 13px;
 	margin: 80px 0px;
@@ -73,27 +72,25 @@ li {
 }
 section.testimonial {
 	background-image: url("images/testimonial_bg.jpg");
-	height: 370px;
-	width: 1200px;
+	background-size: cover;
+	height: 300px;
 }
 
-p.testimonial {
-	font-family: 'Open Sans', sans-serif;
+section.testimonial blockquote {
 	font-weight: 300;
 	font-style: italic;
 	font-size: 18px;
-	padding: 175px 450px;
+	margin: 0px auto;
+	padding:40px;
 	color: rgba(255, 255, 255, 1);
 	text-align: center;
 }
 
-p.name {
-	font-family: 'Open Sans', sans-serif;
+section.testimonial p {
 	font-weight: 600;
 	font-size: 18px;
 	text-align: center;
 	color: rgba(255, 255, 255, 1);
-	margin-top: -165px;
 }
 
 section.button{
@@ -104,7 +101,6 @@ section.button{
 }
 
 button.button {
-	font-family: 'Open Sans', sans-serif;
 	font-weight:800;
 	font-size: 12px;
 	border-radius: 5px;
@@ -128,7 +124,6 @@ section.end li{
 }
 
 p.end {
-	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
 	font-weight:800;
 	color: #f9e42e;
@@ -136,7 +131,6 @@ p.end {
 }
 
 p.end2 {
-	font-family: 'Open Sans', sans-serif;
 	font-size: 9px;
 	font-weight: 600;
 	color: rgba(255, 255, 255, 1);
