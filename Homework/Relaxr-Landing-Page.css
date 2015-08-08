@@ -6,7 +6,7 @@ body {
 header.first {
 	background-image: url("images/header_bg.jpg");
 	color: rgba(255, 255, 255, 1);
-	height: 700px;
+	height: 550px;
 	width: 1200px;
 }
 
@@ -73,7 +73,7 @@ li {
 }
 section.testimonial {
 	background-image: url("images/testimonial_bg.jpg");
-	height: 394px;
+	height: 370px;
 	width: 1200px;
 }
 
