@@ -56,6 +56,20 @@ body {
 /* LAYOUT
 /*******************************************/
 
+/*navigation information*/
+header nav {
+  background-color: #033048;
+  float: left;
+}
+
+
+header nav ul#siteNav li {
+  display: inline-block;
+  float: right;
+}
+
+/*container information*/
+
 div#container {
   border: 1px solid black;
 }

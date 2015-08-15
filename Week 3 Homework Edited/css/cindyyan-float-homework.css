@@ -129,6 +129,7 @@ section#articles div#articleList a{
   font-size: 24px;
   font-weight: 600;
   text-decoration: none;
+  color: #033048;
 }
 
 section#articles div#articleList p.blogPost{
@@ -190,6 +191,7 @@ div#aboutRelaxr a{
   font-size: 22px;
   font-weight: 600;
   text-decoration: none;
+  color: #033048;
 }
 
 div#aboutRelaxr p{
